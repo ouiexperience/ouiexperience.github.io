@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ouiexperience.com/sitemap.xml
